@@ -10,6 +10,12 @@ Bu proje, Arduino Uno kullanarak bir dijital metre yapımını amaçlar. HC-SR04
 
 ![Devre Şeması](devre-semasi.jpg)
 
+![video](video.mp4)
+
+# Ölçüm Doğruluğu Testi
+
+![Kumpas ile Ölçüm Doğruluğu](fotoğraf2.jpeg)
+
 ```cpp
 
 #include <LiquidCrystal.h>
